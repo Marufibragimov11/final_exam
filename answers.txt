@@ -1,0 +1,28 @@
+Question 1: The 'for' loop iterates 100 times, printing the numbers from 0 to 99.
+
+Question 2: 5 10 10 10 15 10
+
+Question 3: String: Hello World
+            Number: 42
+
+Question 4: Area of Circle1: 314
+            Area of Circle2: 78.5
+
+Question 5: 25 20 15 10 5
+
+Question 6: Species: Lion, Age: 5 years
+
+Question 7: Drawing Circle with radius: 5
+            Drawing Rectangle with length and width: 4 and 3
+
+Question 8: Sum of numbers from 1 to 5 is 15
+
+Question 9: Sum: 30
+
+Question 10: number = 10
+
+Question 11: inheritance and virtual functions.
+
+Question 12: runtime
+
+Question 13: destructor
